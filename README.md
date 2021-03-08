@@ -6,13 +6,9 @@ I love programming, especially JavaScript and its NodeJS, ReactJS & React Native
 
 I'm currently an intern at Itaú Unibanco, the biggest bank in Brazil, in a team that develops automation and solutions using Python.
 
-# My github stats & Most used languages
+# My most used languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNeox&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorNeox" />
-</a>
-
 
