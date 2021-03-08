@@ -9,8 +9,10 @@ I'm currently an intern at Itaú Unibanco, the biggest bank in Brazil, in a team
 # My github stats & Most used languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorNeox&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNeox&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorNeox&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorNeox" />
 </a>
+
+
