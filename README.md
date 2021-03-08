@@ -1,16 +1,16 @@
-### Hi there 👋
+#Hi, I'm Víctor
 
-<!--
-**VictorNeox/VictorNeox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of programming, currently studying the 3rd semester of Analysis and Systems Development at FATEC Americana.
 
-Here are some ideas to get you started:
+I love programming, especially JavaScript and its NodeJS, ReactJS & React Native frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently an intern at Itaú Unibanco, the biggest bank in Brazil, in a team that develops automation and solutions using Python.
+
+# My github stats & Most used languages
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorNeox&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorNeox&repo=convoychat" />
+</a>
