@@ -1,6 +1,6 @@
 # Hi, I'm Víctor 👋
 
-I'm a student of programming, currently studying the 6rd semester of Analysis and Systems Development at FATEC Americana.
+I'm a student of programming, currently studying the 6th semester of Analysis and Systems Development at FATEC Americana.
 
 I love programming, especially JavaScript with NodeJS
 
