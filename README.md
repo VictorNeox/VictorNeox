@@ -1,10 +1,16 @@
 # Hi, I'm Víctor 👋
 
-I'm a student of programming.
+I'm Passionate about programming and technology. Experience with JavaScript/TypeScript, NodeJS, ReactJS, Angular, Django, Flask, .NET CORE, SpringBoot, Restful APIs, MySQL, SQL Server, Docker, Perl, Splunk, SCRUM, among others...
 
-I love programming, especially JavaScript with NodeJS
+Learning AWS.
 
-I'm currently a Software Developer at Itaú Unibanco, the biggest bank in Brazil, in a team that develops automation and solutions using Java.
+I work in a SQUAD responsible for resolving impacted customer bugs using - mostly - Java, SpringBoot and Splunk.
+
+I also work in another SQUAD with technologies: AWS, Python, AngularTS & Splunk.
+
+Github: https://github.com/VictorNeox
+
+I'm currently a Software Developer at Itaú Unibanco, the biggest bank in Brazil, in a team that develops automation and solutions using Java, Python and TypeScript.
 
 # My most used languages
 
