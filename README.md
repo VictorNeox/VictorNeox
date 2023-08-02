@@ -1,14 +1,19 @@
 # Hi, I'm Víctor 👋
 
-I'm Passionate about programming and technology. Experience with JavaScript/TypeScript, NodeJS, ReactJS, Angular, Django, Flask, .NET CORE, SpringBoot, Restful APIs, MySQL, SQL Server, Docker, Perl, Splunk, SCRUM, among others...
+👋 I'm a Software Engineer with a solid background in building versatile solutions across multiple technologies.
 
-Learning AWS.
+Tech Stack: 💻
 
-I work in a SQUAD responsible for resolving impacted customer bugs using - mostly - Java, SpringBoot and Splunk.
+- Proficient in TypeScript/JavaScript with hands-on experience in Angular, React, JQuery, and NodeJS.
+- Skilled in Python and familiar with frameworks such as Django, Flask, and FastAPI.
+- Experienced in Java, specializing in SpringBoot applications.
+- Well-versed in AWS services, including Lambda, S3, ECS, ECR, EC2, Elasticache, API Gateway, and more.
+- Seasoned in working with diverse databases like MySQL, SQL Server, and PostgreSQL.
+- Thorough knowledge of writing Unit Tests and Integration Tests to ensure robust and reliable software.
 
-I also work in another SQUAD with technologies: AWS, Python, AngularTS & Splunk.
+Exploring the Potential of Generative AI: 🧠
 
-I'm currently a Software Developer at Itaú Unibanco, the biggest bank in Brazil, in a team that develops automation and solutions using Java, Python and TypeScript.
+As part of my ongoing journey to stay informed with emerging technologies, I have been exploring the potential applications of Generative AI
 
 # My most used languages
 
