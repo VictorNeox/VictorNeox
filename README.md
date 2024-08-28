@@ -11,10 +11,6 @@ Tech Stack: 💻
 - Seasoned in working with diverse databases like MySQL, SQL Server, and PostgreSQL.
 - Thorough knowledge of writing Unit Tests and Integration Tests to ensure robust and reliable software.
 
-Exploring the Potential of Generative AI: 🧠
-
-As part of my ongoing journey to stay informed with emerging technologies, I have been exploring the potential applications of Generative AI
-
 # My most used languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
